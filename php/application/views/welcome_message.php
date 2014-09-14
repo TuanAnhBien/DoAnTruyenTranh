@@ -70,7 +70,7 @@
 	<h1>Welcome to CodeIgniter!</h1>
 
 	<div id="body">
-		<p>Changed</p>
+		<p>Changed from Github</p>
 		<p>Wello World - Nhom Do An,De tai :"Web truyen tranh"</p>
 	</div>
 
